@@ -4,7 +4,7 @@ This repository contains the source code for the paper "Full-Round Impossible Di
 The main function(Algorithm 3 of the paper) is Shadow_impossible.py.
 The modeling of basic operations(Algorithm 2 of the paper) is dcp_model.py.
 
-3. How to use codes
+2. How to use codes
 
 First we need to install STP and CRYPTOMINISAT.
 
